@@ -3,6 +3,8 @@
 
 This script is a simple shop robbery script created by SeriumTW for ESX servers. It is provided for free, as there is a lack of decent shop robbery scripts available.
 
+This version of the script has not been extensively tested. If you encounter any issues or have any suggestions for improvements, please feel free to contact me.
+
 ## Installation
 
 1. Download the script files.
@@ -39,6 +41,5 @@ The script includes a configuration file where you can customize various setting
 This script is provided for free and can be used and modified without any restrictions. However, the original credit must be given to SeriumTW for creating the script.
 
 Please note that the script is available only in English language. For any inquiries regarding translations or modifications, please contact the undersigned via email.
-That the script is available only in English language. This version of the script has not been extensively tested. If you encounter any issues or have any suggestions for improvements, please feel free to contact me.
 
 For more scripts and resources, visit [SeriumTW's GitHub](https://github.com/SeriumTW).
